@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gutendex-books 1.0.0\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Search"
+msgstr "Rechercher"
+msgid "Search by title..."
+msgstr "Rechercher par titre"
+msgid "All languages"
+msgstr "Toutes les langues"
+
+msgid "French"
+msgstr "Français"
+
+msgid "English"
+msgstr "Anglais"
+
+msgid "No books found"
+msgstr "Aucun livre trouvé"
+
+msgid "Unknown author"
+msgstr "Auteur inconnu"
+
+msgid "Unknown language"
+msgstr "Non renseignée"
+
+msgid "No cover available"
+msgstr "pas de couverture"
+
+msgid "Authors"
+msgstr "Auteur(s)"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "Downloads"
+msgstr "Téléchargements"
+
+msgid "Read online"
+msgstr "Lire le livre"
+
+msgid "Link unavailable"
+msgstr "Lien indisponible"
+
+msgid "Previous"
+msgstr "Précédent"
+
+msgid "Next"
+msgstr "Suivant"
+
+msgid "Searching..."
+msgstr "Recherche en cours..."
+
+msgid "An error occurred while searching."
+msgstr "Une erreur s'est produite lors de la recherche."
+
+msgid "No books found."
+msgstr "Aucun livre trouvé."
+
+msgid "Gutendex Books"
+msgstr "Livres Gutendex"
+
+msgid "Gutendex"
+msgstr "Gutendex"
+
+msgid "Gutendex Management"
+msgstr "Gestion Gutendex"
+
+msgid "Cache"
+msgstr "Cache"
+
+msgid "Cache duration (seconds)"
+msgstr "Durée du cache (secondes)"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Last fetch:"
+msgstr "Dernière récupération :"
+
+msgid "No data retrieved."
+msgstr "Aucune récupération effectuée."
+
+msgid "Refresh data"
+msgstr "Renouveler les données"
+
+msgid "Clear cache"
+msgstr "Vider le cache"
+
+msgid "Network error: %s"
+msgstr "Erreur réseau : %s"
+
+msgid "HTTP error: %d"
+msgstr "Erreur HTTP : %d"
+
